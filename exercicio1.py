@@ -5,8 +5,8 @@
 #Nota: Como1!=1e2!=2não são somas, elas não estão incluídas.
 
 
-for i in range (10,2540161)
-if i == 1 or 1==2: continue    #caso queira começar com 1 pq no problema diz que esse nao vai entrar
+for i in range (10,2540161):
+    if i == 1 or 1==2: continue    #caso queira começar com 1 pq no problema diz que esse nao vai entrar
 
 
 
